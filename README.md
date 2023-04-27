@@ -11,7 +11,7 @@
 
 ## In use:
 
-&#8226; Light promo site [vparnike.by](http://vparnike.by/) (mirror [vogorode.by](http://vogorode.by/)) /HTML, CSS/ <br/>
+&#8226; Light promo site [vparnike.by](http://vparnike.by/) (mirror [vogorode.by](http://vogorode.by/)) /HTML, CSS, Textolite/ <br/>
 
 <br />
 
@@ -25,5 +25,5 @@
 
 ## Connect with me:
 Telegram: @Mironov_Vitaliy <br/>
-Mail : 4mironov@gmail.com <br/>
+Email : 4mironov@gmail.com <br/>
 Linkedin: www.linkedin.com/in/vitaliy-mironov <br/>

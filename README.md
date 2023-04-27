@@ -27,3 +27,5 @@
 Telegram: @Mironov_Vitaliy <br/>
 Mail : 4mironov@gmail.com <br/>
 Linkedin: www.linkedin.com/in/vitaliy-mironov <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vitaliy-Mironov)](https://github.com/Vitaliy-Mironov/github-profile-trophy)

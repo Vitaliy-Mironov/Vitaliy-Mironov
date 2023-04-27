@@ -1,19 +1,19 @@
 ### Hi, I’m Vitaliy 😉
 # My Web Developer exp:
 
-<hr />
+<br />
 
 ## My latest project:
 
 ![github](github_icon.svg) [webMart](https://github.com/Vitaliy-Mironov/webMart) Python, Django, HTML, CSS, Bootstrap, JavaScript <br/>
 
-<hr />
+<br />
 
 ## In use:
 
 ![github](world_icon.svg) [vparnike.by](http://vparnike.by/) HTML, CSS <br/>
 
-<hr />
+<br />
 
 ## Not currently in use, images from the web archive:
 

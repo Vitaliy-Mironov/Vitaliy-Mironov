@@ -1,4 +1,4 @@
-### Hi there, I’m Vitaliy 😉
+### Hi there, I’m [Vitaliy](https://www.linkedin.com/in/vitaliy-mironov/) 😉
 # My Web Developer exp:
 
 <br />

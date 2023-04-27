@@ -3,7 +3,7 @@
 
 ## Web Developer exp:
 &#8226; Python, Django, HTML, CSS, Bootstrap, JavaScript <br/>
-![github](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg) [webMart](https://github.com/Vitaliy-Mironov/webMart)
+![github](github_icon.svg) [webMart](https://github.com/Vitaliy-Mironov/webMart)
 
 <hr />
 

@@ -1,4 +1,4 @@
-### Hi, I’m Vitaliy 😉
+### Hi there, I’m Vitaliy 😉
 # My Web Developer exp:
 
 <br />

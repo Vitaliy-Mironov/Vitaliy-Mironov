@@ -11,7 +11,7 @@
 
 ## In use:
 
-![github](world_icon.svg) [vparnike.by](http://vparnike.by/) HTML, CSS <br/>
+![github](world_icon.svg) [vparnike.by](http://vparnike.by/) (mirror [vogorode.by](http://vogorode.by/)) HTML, CSS <br/>
 
 <br />
 

@@ -24,6 +24,6 @@
 <hr />
 
 ## Connect with me:
-![Telegram](telegram-color.svg) @Mironov_Vitaliy <br/>
+Telegram: @Mironov_Vitaliy <br/>
 Mail : 4mironov@gmail.com <br/>
 Linkedin: www.linkedin.com/in/vitaliy-mironov <br/>

@@ -3,7 +3,7 @@
 
 <br />
 
-## My latest project:
+## Latest project:
 
 &#8226; Online store [webMart](https://github.com/Vitaliy-Mironov/webMart) /Python, Django, HTML, CSS, Bootstrap, JavaScript/ <br/>
 

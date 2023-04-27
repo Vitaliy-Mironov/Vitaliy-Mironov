@@ -1,9 +1,9 @@
 ### Hi, I’m Vitaliy 😉
 <hr />
 
-## Web Developer exp:
-&#8226; Python, Django, HTML, CSS, Bootstrap, JavaScript <br/>
- ![github](github_icon.svg) [webMart](https://github.com/Vitaliy-Mironov/webMart)
+## My Web Developer exp:
+![github](github_icon.svg) [webMart](https://github.com/Vitaliy-Mironov/webMart) Python, Django, HTML, CSS, Bootstrap, JavaScript <br/>
+![github](world_icon.svg) [sredizvezd](https://web.archive.org/web/20170920200100/http://sredizvezd.ru/) HTML, SSI, CSS <br/>
 
 <hr />
 

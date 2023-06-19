@@ -5,7 +5,8 @@
 
 ## Latest project:
 
-&#8226; Online store [webMart](https://github.com/Vitaliy-Mironov/webMart) /Python, Django, HTML, CSS, Bootstrap, JavaScript/ <br/>
+&#8226; 2023/06 Snake game [webMart](https://github.com/Vitaliy-Mironov/snake_game) /Python, Pygame/ <br/>
+&#8226; 2023/03 Online store [webMart](https://github.com/Vitaliy-Mironov/webMart) /Python, Django, HTML, CSS, Bootstrap, JavaScript/ <br/>
 
 <br />
 

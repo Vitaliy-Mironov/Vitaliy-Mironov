@@ -1,5 +1,5 @@
 ### Hi there, I’m [Vitaliy](https://www.linkedin.com/in/vitaliy-mironov/) 😉
-# My Web Developer exp:
+# My Developer exp:
 
 <br />
 

@@ -18,7 +18,7 @@
 
 ## Not currently in use:
 
-&#8226; Services site [zakazmebeli.pro](https://web.archive.org/web/20201030080902/https://zakazmebeli.pro/)/PHP, CSS, JavaScript/ ([git repo])(https://github.com/Vitaliy-Mironov/zakazmebeli.pro)<br/>
+&#8226; Services site [zakazmebeli.pro](https://web.archive.org/web/20201030080902/https://zakazmebeli.pro/)/PHP, CSS, JavaScript/ [git repo is here](https://github.com/Vitaliy-Mironov/zakazmebeli.pro)<br/>
 &#8226; PET site with my poems [sredizvezd.ru](https://web.archive.org/web/20170920200100/http://sredizvezd.ru/) /HTML, SSI, CSS/ <br/>
 &#8226; First corporate website [vpozitive.by](https://web.archive.org/web/20181024020215/http://vpozitive.by/) /HTML, SSI, CSS/ <br/>
 
